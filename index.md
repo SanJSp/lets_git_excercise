@@ -1,1 +1,1 @@
-Das ist eine Testseite für github um zulernen.
+Der Test für die Seite ist erfolgreich abgelaufen.
